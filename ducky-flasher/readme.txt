@@ -7,8 +7,15 @@ Easily flash your USB Rubber ducky from Hak5!
 	3. m_duck.hex v2 (Detour Duck(formerly Naked Duck))
 	4. c_duck.hex v2 (Twin Duck)
 	5. Twin Duck Versions (Original, Special 1, Special 2)
-#To read more about the firmware go here
-https://code.google.com/p/ducky-decode/wiki/Which_Firmware
+#More about the firmwares search in https://forums.hak5.org
+• Duck Original
+	– Keyboard Input
+• FAT Duck
+	– Mass Storage Device
+• Detour Duck
+	– Multiple Payloads
+• Twin Duck
+	– Both Keyboard and Mass Storage Device
 
 #To install ducky-flasher run sudo python setup.py
 You must have dfu-programmer installed (sudo apt-get install dfu-programmer)
